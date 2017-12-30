@@ -2,7 +2,12 @@
 
 *Peter Bruce & Andrew Bruce, O'Reilly [2017]*
 
- Goal is to show implementation of practical statistics using Python 3, Numpy, Pandas, Scipy, Matplotlib, and Seaborn.
+Goal is to show implementation of practical statistics using Python 3, Numpy, Pandas, Scipy, Matplotlib, and Seaborn.
+
+Essentially, a Python version of [the official R repo](https://github.com/andrewgbruce/statistics-for-data-scientists)
+
+With some extra material added from this [Probability and Statistics Cookbook](http://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf) from [Matthias Vallentin](http://matthias.vallentin.net/)
+
 
 ### Dev
 
